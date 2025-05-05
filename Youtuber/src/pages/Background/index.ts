@@ -4,7 +4,7 @@ let MultipleFlag = false;
 let PlaylistFlag = false;
 let ChannelFlag = false;
 const OPENAI_API_KEY =
-  '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';
+  '';
 
 const STORAGE_KEYS = {
   MAIN: 'mainMultipleLinks',
